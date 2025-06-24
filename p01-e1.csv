@@ -1,0 +1,1055 @@
+StateFIPS,State,CountyFIPS,County,Year,Value
+02,Alaska,02013,Aleutians East,2022,22.2
+02,Alaska,02016,Aleutians West,2022,NA
+02,Alaska,02020,Anchorage,2022,51.8
+02,Alaska,02050,Bethel,2022,NA
+02,Alaska,02060,Bristol Bay,2022,NA
+02,Alaska,02066,Copper River,2022,7.4
+02,Alaska,02068,Denali,2022,96.2
+02,Alaska,02070,Dillingham,2022,51.8
+02,Alaska,02090,Fairbanks North Star,2022,136.9
+02,Alaska,02100,Haines,2022,728.9
+02,Alaska,02105,HOONAH-ANGOON CENSUS AREA,2022,14.8
+02,Alaska,02110,Juneau,2022,7.4
+02,Alaska,02122,Kenai Peninsula,2022,51.8
+02,Alaska,02130,Ketchikan Gateway,2022,NA
+02,Alaska,02150,Kodiak Island,2022,11.1
+02,Alaska,02158,Kusilvak,2022,NA
+02,Alaska,02164,Lake and Peninsula,2022,18.5
+02,Alaska,02170,Matanuska-Susitna,2022,66.60000000000001
+02,Alaska,02180,Nome,2022,33.300000000000004
+02,Alaska,02185,North Slope,2022,NA
+02,Alaska,02188,Northwest Arctic,2022,NA
+02,Alaska,02195,PETERSBURG CENSUS AREA,2022,7.4
+02,Alaska,02198,PRINCE OF WALES-HYDER CENSUS AREA,2022,14.8
+02,Alaska,02220,Sitka,2022,7.4
+02,Alaska,02230,SKAGWAY MUNICIPALITY,2022,33.300000000000004
+02,Alaska,02240,Southeast Fairbanks,2022,229.4
+02,Alaska,02275,WRANGELL CITY AND BURROUGH,2022,22.2
+02,Alaska,02282,Yakutat,2022,NA
+02,Alaska,02290,Yukon-Koyukuk,2022,NA
+08,Colorado,08001,Adams,2022,166.5
+08,Colorado,08003,Alamosa,2022,59.2
+08,Colorado,08005,Arapahoe,2022,162.8
+08,Colorado,08007,Archuleta,2022,196.1
+08,Colorado,08009,Baca,2022,55.5
+08,Colorado,08011,Bent,2022,99.9
+08,Colorado,08013,Boulder,2022,159.1
+08,Colorado,08014,Broomfield,2022,122.1
+08,Colorado,08015,Chaffee,2022,270.09999999999997
+08,Colorado,08017,Cheyenne,2022,NA
+08,Colorado,08019,Clear Creek,2022,222
+08,Colorado,08021,Conejos,2022,177.6
+08,Colorado,08023,Costilla,2022,114.7
+08,Colorado,08025,Crowley,2022,NA
+08,Colorado,08027,Custer,2022,170.2
+08,Colorado,08029,Delta,2022,162.8
+08,Colorado,08031,Denver,2022,111
+08,Colorado,08033,Dolores,2022,148
+08,Colorado,08035,Douglas,2022,225.7
+08,Colorado,08037,Eagle,2022,159.1
+08,Colorado,08041,El Paso,2022,203.5
+08,Colorado,08039,Elbert,2022,181.3
+08,Colorado,08043,Fremont,2022,218.3
+08,Colorado,08045,Garfield,2022,151.7
+08,Colorado,08047,Gilpin,2022,451.4
+08,Colorado,08049,Grand,2022,233.1
+08,Colorado,08051,Gunnison,2022,185
+08,Colorado,08053,Hinsdale,2022,1209.9
+08,Colorado,08055,Huerfano,2022,199.8
+08,Colorado,08057,Jackson,2022,NA
+08,Colorado,08059,Jefferson,2022,199.8
+08,Colorado,08061,Kiowa,2022,NA
+08,Colorado,08063,Kit Carson,2022,310.8
+08,Colorado,08067,La Plata,2022,122.1
+08,Colorado,08065,Lake,2022,277.5
+08,Colorado,08069,Larimer,2022,284.90000000000003
+08,Colorado,08071,Las Animas,2022,236.8
+08,Colorado,08073,Lincoln,2022,166.5
+08,Colorado,08075,Logan,2022,170.2
+08,Colorado,08077,Mesa,2022,103.6
+08,Colorado,08079,Mineral,2022,802.9
+08,Colorado,08081,Moffat,2022,207.2
+08,Colorado,08083,Montezuma,2022,103.6
+08,Colorado,08085,Montrose,2022,259
+08,Colorado,08087,Morgan,2022,307.1
+08,Colorado,08089,Otero,2022,266.40000000000003
+08,Colorado,08091,Ouray,2022,140.6
+08,Colorado,08093,Park,2022,436.6
+08,Colorado,08095,Phillips,2022,151.7
+08,Colorado,08097,Pitkin,2022,240.5
+08,Colorado,08099,Prowers,2022,166.5
+08,Colorado,08101,Pueblo,2022,318.2
+08,Colorado,08103,Rio Blanco,2022,118.4
+08,Colorado,08105,Rio Grande,2022,144.29999999999998
+08,Colorado,08107,Routt,2022,196.1
+08,Colorado,08109,Saguache,2022,347.8
+08,Colorado,08111,San Juan,2022,318.2
+08,Colorado,08113,San Miguel,2022,259
+08,Colorado,08115,Sedgwick,2022,151.7
+08,Colorado,08117,Summit,2022,292.3
+08,Colorado,08119,Teller,2022,240.5
+08,Colorado,08121,Washington,2022,288.59999999999997
+08,Colorado,08123,Weld,2022,199.8
+08,Colorado,08125,Yuma,2022,229.4
+12,Florida,12001,Alachua,2022,122.1
+12,Florida,12003,Baker,2022,207.2
+12,Florida,12005,Bay,2022,18.5
+12,Florida,12007,Bradford,2022,NA
+12,Florida,12009,Brevard,2022,55.5
+12,Florida,12011,Broward,2022,166.5
+12,Florida,12013,Calhoun,2022,NA
+12,Florida,12015,Charlotte,2022,133.20000000000002
+12,Florida,12017,Citrus,2022,51.8
+12,Florida,12019,Clay,2022,77.7
+12,Florida,12021,Collier,2022,125.8
+12,Florida,12023,Columbia,2022,92.5
+12,Florida,12027,DeSoto,2022,99.9
+12,Florida,12029,Dixie,2022,51.8
+12,Florida,12031,Duval,2022,29.6
+12,Florida,12033,Escambia,2022,18.5
+12,Florida,12035,Flagler,2022,44.4
+12,Florida,12037,Franklin,2022,14.8
+12,Florida,12039,Gadsden,2022,59.2
+12,Florida,12041,Gilchrist,2022,48.1
+12,Florida,12043,Glades,2022,NA
+12,Florida,12045,Gulf,2022,NA
+12,Florida,12047,Hamilton,2022,NA
+12,Florida,12049,Hardee,2022,88.8
+12,Florida,12051,Hendry,2022,96.2
+12,Florida,12053,Hernando,2022,66.60000000000001
+12,Florida,12055,Highlands,2022,51.8
+12,Florida,12057,Hillsborough,2022,88.8
+12,Florida,12059,Holmes,2022,NA
+12,Florida,12061,Indian River,2022,51.8
+12,Florida,12063,Jackson,2022,NA
+12,Florida,12065,Jefferson,2022,85.1
+12,Florida,12067,Lafayette,2022,NA
+12,Florida,12069,Lake,2022,40.7
+12,Florida,12071,Lee,2022,114.7
+12,Florida,12073,Leon,2022,96.2
+12,Florida,12075,Levy,2022,111
+12,Florida,12077,Liberty,2022,NA
+12,Florida,12079,Madison,2022,18.5
+12,Florida,12081,Manatee,2022,155.4
+12,Florida,12083,Marion,2022,159.1
+12,Florida,12085,Martin,2022,55.5
+12,Florida,12086,Miami-Dade,2022,81.4
+12,Florida,12087,Monroe,2022,107.3
+12,Florida,12089,Nassau,2022,22.2
+12,Florida,12091,Okaloosa,2022,22.2
+12,Florida,12093,Okeechobee,2022,NA
+12,Florida,12095,Orange,2022,51.8
+12,Florida,12097,Osceola,2022,33.300000000000004
+12,Florida,12099,Palm Beach,2022,207.2
+12,Florida,12101,Pasco,2022,33.300000000000004
+12,Florida,12103,Pinellas,2022,44.4
+12,Florida,12105,Polk,2022,77.7
+12,Florida,12107,Putnam,2022,NA
+12,Florida,12113,Santa Rosa,2022,55.5
+12,Florida,12115,Sarasota,2022,92.5
+12,Florida,12117,Seminole,2022,37
+12,Florida,12109,St. Johns,2022,37
+12,Florida,12111,St. Lucie,2022,55.5
+12,Florida,12119,Sumter,2022,81.4
+12,Florida,12121,Suwannee,2022,44.4
+12,Florida,12123,Taylor,2022,55.5
+12,Florida,12125,Union,2022,192.4
+12,Florida,12127,Volusia,2022,33.300000000000004
+12,Florida,12129,Wakulla,2022,81.4
+12,Florida,12131,Walton,2022,NA
+12,Florida,12133,Washington,2022,NA
+20,Kansas,20001,Allen,2022,99.9
+20,Kansas,20003,Anderson,2022,188.7
+20,Kansas,20005,Atchison,2022,185
+20,Kansas,20007,Barber,2022,40.7
+20,Kansas,20009,Barton,2022,181.3
+20,Kansas,20011,Bourbon,2022,125.8
+20,Kansas,20013,Brown,2022,196.1
+20,Kansas,20015,Butler,2022,122.1
+20,Kansas,20017,Chase,2022,170.2
+20,Kansas,20019,Chautauqua,2022,NA
+20,Kansas,20021,Cherokee,2022,573.5
+20,Kansas,20023,Cheyenne,2022,NA
+20,Kansas,20025,Clark,2022,NA
+20,Kansas,20027,Clay,2022,225.7
+20,Kansas,20029,Cloud,2022,203.5
+20,Kansas,20031,Coffey,2022,284.90000000000003
+20,Kansas,20033,Comanche,2022,NA
+20,Kansas,20035,Cowley,2022,192.4
+20,Kansas,20037,Crawford,2022,70.3
+20,Kansas,20039,Decatur,2022,284.90000000000003
+20,Kansas,20041,Dickinson,2022,151.7
+20,Kansas,20043,Doniphan,2022,758.5
+20,Kansas,20045,Douglas,2022,133.20000000000002
+20,Kansas,20047,Edwards,2022,129.5
+20,Kansas,20049,Elk,2022,NA
+20,Kansas,20051,Ellis,2022,144.29999999999998
+20,Kansas,20053,Ellsworth,2022,144.29999999999998
+20,Kansas,20055,Finney,2022,148
+20,Kansas,20057,Ford,2022,144.29999999999998
+20,Kansas,20059,Franklin,2022,159.1
+20,Kansas,20061,Geary,2022,125.8
+20,Kansas,20063,Gove,2022,307.1
+20,Kansas,20065,Graham,2022,255.3
+20,Kansas,20067,Grant,2022,103.6
+20,Kansas,20069,Gray,2022,173.9
+20,Kansas,20071,Greeley,2022,NA
+20,Kansas,20073,Greenwood,2022,77.7
+20,Kansas,20075,Hamilton,2022,NA
+20,Kansas,20077,Harper,2022,66.60000000000001
+20,Kansas,20079,Harvey,2022,151.7
+20,Kansas,20081,Haskell,2022,NA
+20,Kansas,20083,Hodgeman,2022,NA
+20,Kansas,20085,Jackson,2022,114.7
+20,Kansas,20087,Jefferson,2022,148
+20,Kansas,31095,Jefferson,2022,458.8
+20,Kansas,20089,Jewell,2022,318.2
+20,Kansas,20091,Johnson,2022,177.6
+20,Kansas,20093,Kearny,2022,166.5
+20,Kansas,20095,Kingman,2022,122.1
+20,Kansas,20097,Kiowa,2022,296
+20,Kansas,20099,Labette,2022,85.1
+20,Kansas,20101,Lane,2022,270.09999999999997
+20,Kansas,20103,Leavenworth,2022,114.7
+20,Kansas,20105,Lincoln,2022,273.8
+20,Kansas,20107,Linn,2022,296
+20,Kansas,20109,Logan,2022,177.6
+20,Kansas,20111,Lyon,2022,140.6
+20,Kansas,20115,Marion,2022,159.1
+20,Kansas,20117,Marshall,2022,236.8
+20,Kansas,20113,McPherson,2022,192.4
+20,Kansas,20119,Meade,2022,159.1
+20,Kansas,20121,Miami,2022,236.8
+20,Kansas,20123,Mitchell,2022,262.7
+20,Kansas,20125,Montgomery,2022,92.5
+20,Kansas,20127,Morris,2022,151.7
+20,Kansas,20129,Morton,2022,181.3
+20,Kansas,20131,Nemaha,2022,481
+20,Kansas,20133,Neosho,2022,122.1
+20,Kansas,20135,Ness,2022,351.5
+20,Kansas,20137,Norton,2022,196.1
+20,Kansas,20139,Osage,2022,266.40000000000003
+20,Kansas,20141,Osborne,2022,381.1
+20,Kansas,20143,Ottawa,2022,177.6
+20,Kansas,20145,Pawnee,2022,155.4
+20,Kansas,20147,Phillips,2022,240.5
+20,Kansas,20149,Pottawatomie,2022,129.5
+20,Kansas,20151,Pratt,2022,118.4
+20,Kansas,20153,Rawlins,2022,340.4
+20,Kansas,20155,Reno,2022,118.4
+20,Kansas,20157,Republic,2022,262.7
+20,Kansas,20159,Rice,2022,129.5
+20,Kansas,20161,Riley,2022,155.4
+20,Kansas,20163,Rooks,2022,125.8
+20,Kansas,20165,Rush,2022,210.9
+20,Kansas,20167,Russell,2022,444
+20,Kansas,20169,Saline,2022,185
+20,Kansas,20171,Scott,2022,266.40000000000003
+20,Kansas,20173,Sedgwick,2022,88.8
+20,Kansas,20175,Seward,2022,92.5
+20,Kansas,20177,Shawnee,2022,159.1
+20,Kansas,20179,Sheridan,2022,196.1
+20,Kansas,20181,Sherman,2022,140.6
+20,Kansas,20183,Smith,2022,136.9
+20,Kansas,20185,Stafford,2022,247.9
+20,Kansas,20187,Stanton,2022,85.1
+20,Kansas,20189,Stevens,2022,140.6
+20,Kansas,20191,Sumner,2022,129.5
+20,Kansas,20193,Thomas,2022,159.1
+20,Kansas,20195,Trego,2022,281.2
+20,Kansas,20197,Wabaunsee,2022,114.7
+20,Kansas,20199,Wallace,2022,340.4
+20,Kansas,20201,Washington,2022,185
+20,Kansas,20203,Wichita,2022,162.8
+20,Kansas,20205,Wilson,2022,133.20000000000002
+20,Kansas,20207,Woodson,2022,51.8
+20,Kansas,20209,Wyandotte,2022,118.4
+22,Louisiana,22001,Acadia,2022,NA
+22,Louisiana,22003,Allen,2022,NA
+22,Louisiana,22005,Ascension,2022,NA
+22,Louisiana,22007,Assumption,2022,7.4
+22,Louisiana,22009,Avoyelles,2022,NA
+22,Louisiana,22011,Beauregard,2022,NA
+22,Louisiana,22013,Bienville,2022,NA
+22,Louisiana,22015,Bossier,2022,NA
+22,Louisiana,22017,Caddo,2022,25.9
+22,Louisiana,22019,Calcasieu,2022,25.9
+22,Louisiana,22021,Caldwell,2022,NA
+22,Louisiana,22023,Cameron,2022,NA
+22,Louisiana,22025,Catahoula,2022,NA
+22,Louisiana,22027,Claiborne,2022,NA
+22,Louisiana,22029,Concordia,2022,NA
+22,Louisiana,22031,De Soto,2022,NA
+22,Louisiana,22033,East Baton Rouge,2022,11.1
+22,Louisiana,22035,East Carroll,2022,NA
+22,Louisiana,22037,East Feliciana,2022,NA
+22,Louisiana,22039,Evangeline,2022,NA
+22,Louisiana,22041,Franklin,2022,NA
+22,Louisiana,22043,Grant,2022,NA
+22,Louisiana,22045,Iberia,2022,NA
+22,Louisiana,22047,Iberville,2022,NA
+22,Louisiana,22049,Jackson,2022,NA
+22,Louisiana,22051,Jefferson,2022,62.9
+22,Louisiana,22053,Jefferson Davis,2022,NA
+22,Louisiana,22059,La Salle,2022,NA
+22,Louisiana,22055,Lafayette,2022,11.1
+22,Louisiana,22057,Lafourche,2022,NA
+22,Louisiana,22061,Lincoln,2022,NA
+22,Louisiana,22063,Livingston,2022,NA
+22,Louisiana,22065,Madison,2022,NA
+22,Louisiana,22067,Morehouse,2022,NA
+22,Louisiana,22069,Natchitoches,2022,NA
+22,Louisiana,22071,Orleans,2022,11.1
+22,Louisiana,22073,Ouachita,2022,37
+22,Louisiana,22075,Plaquemines,2022,NA
+22,Louisiana,22077,Pointe Coupee,2022,NA
+22,Louisiana,22079,Rapides,2022,14.8
+22,Louisiana,22081,Red River,2022,NA
+22,Louisiana,22083,Richland,2022,NA
+22,Louisiana,22085,Sabine,2022,NA
+22,Louisiana,22087,St. Bernard,2022,NA
+22,Louisiana,22089,St. Charles,2022,NA
+22,Louisiana,22091,St. Helena,2022,NA
+22,Louisiana,22093,St. James,2022,NA
+22,Louisiana,22095,St. John the Baptist,2022,NA
+22,Louisiana,22097,St. Landry,2022,NA
+22,Louisiana,22099,St. Martin,2022,NA
+22,Louisiana,22101,St. Mary,2022,NA
+22,Louisiana,22103,St. Tammany,2022,NA
+22,Louisiana,22105,Tangipahoa,2022,NA
+22,Louisiana,22107,Tensas,2022,NA
+22,Louisiana,22109,Terrebonne,2022,NA
+22,Louisiana,22111,Union,2022,11.1
+22,Louisiana,22113,Vermilion,2022,NA
+22,Louisiana,22115,Vernon,2022,NA
+22,Louisiana,22117,Washington,2022,NA
+22,Louisiana,22119,Webster,2022,11.1
+22,Louisiana,22121,West Baton Rouge,2022,22.2
+22,Louisiana,22123,West Carroll,2022,NA
+22,Louisiana,22125,West Feliciana,2022,NA
+22,Louisiana,22127,Winn,2022,NA
+27,Minnesota,27001,Aitkin,2022,107.3
+27,Minnesota,27003,Anoka,2022,85.1
+27,Minnesota,27005,Becker,2022,233.1
+27,Minnesota,27007,Beltrami,2022,111
+27,Minnesota,27009,Benton,2022,92.5
+27,Minnesota,27011,Big Stone,2022,162.8
+27,Minnesota,27013,Blue Earth,2022,151.7
+27,Minnesota,27015,Brown,2022,229.4
+27,Minnesota,27017,Carlton,2022,185
+27,Minnesota,27019,Carver,2022,148
+27,Minnesota,27021,Cass,2022,103.6
+27,Minnesota,27023,Chippewa,2022,270.09999999999997
+27,Minnesota,27025,Chisago,2022,173.9
+27,Minnesota,27027,Clay,2022,188.7
+27,Minnesota,27029,Clearwater,2022,229.4
+27,Minnesota,27031,Cook,2022,173.9
+27,Minnesota,27033,Cottonwood,2022,199.8
+27,Minnesota,27035,Crow Wing,2022,118.4
+27,Minnesota,27037,Dakota,2022,111
+27,Minnesota,27039,Dodge,2022,481
+27,Minnesota,27041,Douglas,2022,166.5
+27,Minnesota,27043,Faribault,2022,177.6
+27,Minnesota,27045,Fillmore,2022,214.6
+27,Minnesota,27047,Freeborn,2022,266.40000000000003
+27,Minnesota,27049,Goodhue,2022,207.2
+27,Minnesota,27051,Grant,2022,166.5
+27,Minnesota,27053,Hennepin,2022,114.7
+27,Minnesota,27055,Houston,2022,218.3
+27,Minnesota,27057,Hubbard,2022,107.3
+27,Minnesota,27059,Isanti,2022,144.29999999999998
+27,Minnesota,27061,Itasca,2022,129.5
+27,Minnesota,27063,Jackson,2022,266.40000000000003
+27,Minnesota,27065,Kanabec,2022,177.6
+27,Minnesota,27067,Kandiyohi,2022,177.6
+27,Minnesota,27069,Kittson,2022,111
+27,Minnesota,27071,Koochiching,2022,129.5
+27,Minnesota,27073,Lac qui Parle,2022,162.8
+27,Minnesota,27075,Lake,2022,129.5
+27,Minnesota,27077,Lake of the Woods,2022,129.5
+27,Minnesota,27079,Le Sueur,2022,129.5
+27,Minnesota,27081,Lincoln,2022,222
+27,Minnesota,27083,Lyon,2022,181.3
+27,Minnesota,27087,Mahnomen,2022,262.7
+27,Minnesota,27089,Marshall,2022,233.1
+27,Minnesota,27091,Martin,2022,292.3
+27,Minnesota,27085,McLeod,2022,236.8
+27,Minnesota,27093,Meeker,2022,155.4
+27,Minnesota,27095,Mille Lacs,2022,122.1
+27,Minnesota,27097,Morrison,2022,144.29999999999998
+27,Minnesota,27099,Mower,2022,199.8
+27,Minnesota,27101,Murray,2022,403.3
+27,Minnesota,27103,Nicollet,2022,214.6
+27,Minnesota,27105,Nobles,2022,344.1
+27,Minnesota,27107,Norman,2022,307.1
+27,Minnesota,27109,Olmsted,2022,181.3
+27,Minnesota,27111,Otter Tail,2022,225.7
+27,Minnesota,27113,Pennington,2022,307.1
+27,Minnesota,27115,Pine,2022,144.29999999999998
+27,Minnesota,27117,Pipestone,2022,188.7
+27,Minnesota,27119,Polk,2022,344.1
+27,Minnesota,27121,Pope,2022,173.9
+27,Minnesota,27123,Ramsey,2022,99.9
+27,Minnesota,27125,Red Lake,2022,144.29999999999998
+27,Minnesota,27127,Redwood,2022,74
+27,Minnesota,27129,Renville,2022,133.20000000000002
+27,Minnesota,27131,Rice,2022,207.2
+27,Minnesota,27133,Rock,2022,281.2
+27,Minnesota,27135,Roseau,2022,77.7
+27,Minnesota,27139,Scott,2022,166.5
+27,Minnesota,27141,Sherburne,2022,114.7
+27,Minnesota,27143,Sibley,2022,236.8
+27,Minnesota,27137,St. Louis,2022,151.7
+27,Minnesota,27145,Stearns,2022,151.7
+27,Minnesota,27147,Steele,2022,240.5
+27,Minnesota,27149,Stevens,2022,140.6
+27,Minnesota,27151,Swift,2022,92.5
+27,Minnesota,27153,Todd,2022,99.9
+27,Minnesota,27155,Traverse,2022,173.9
+27,Minnesota,27157,Wabasha,2022,281.2
+27,Minnesota,27159,Wadena,2022,111
+27,Minnesota,27161,Waseca,2022,292.3
+27,Minnesota,27163,Washington,2022,114.7
+27,Minnesota,27165,Watonwan,2022,222
+27,Minnesota,27167,Wilkin,2022,210.9
+27,Minnesota,27169,Winona,2022,185
+27,Minnesota,27171,Wright,2022,151.7
+27,Minnesota,27173,Yellow Medicine,2022,247.9
+29,Missouri,29001,Adair,2022,125.8
+29,Missouri,29003,Andrew,2022,222
+29,Missouri,29005,Atchison,2022,436.6
+29,Missouri,29007,Audrain,2022,136.9
+29,Missouri,29009,Barry,2022,159.1
+29,Missouri,29011,Barton,2022,74
+29,Missouri,29013,Bates,2022,51.8
+29,Missouri,29015,Benton,2022,218.3
+29,Missouri,29017,Bollinger,2022,129.5
+29,Missouri,29019,Boone,2022,177.6
+29,Missouri,29021,Buchanan,2022,277.5
+29,Missouri,29023,Butler,2022,136.9
+29,Missouri,29025,Caldwell,2022,88.8
+29,Missouri,29027,Callaway,2022,214.6
+29,Missouri,29029,Camden,2022,107.3
+29,Missouri,29031,Cape Girardeau,2022,162.8
+29,Missouri,29033,Carroll,2022,14.8
+29,Missouri,29035,Carter,2022,876.9
+29,Missouri,29037,Cass,2022,373.7
+29,Missouri,29039,Cedar,2022,33.300000000000004
+29,Missouri,29041,Chariton,2022,503.2
+29,Missouri,29043,Christian,2022,185
+29,Missouri,29045,Clark,2022,59.2
+29,Missouri,29047,Clay,2022,199.8
+29,Missouri,29049,Clinton,2022,88.8
+29,Missouri,29051,Cole,2022,192.4
+29,Missouri,29053,Cooper,2022,129.5
+29,Missouri,29055,Crawford,2022,214.6
+29,Missouri,29057,Dade,2022,118.4
+29,Missouri,29059,Dallas,2022,62.9
+29,Missouri,29061,Daviess,2022,NA
+29,Missouri,29063,DeKalb,2022,NA
+29,Missouri,29065,Dent,2022,103.6
+29,Missouri,29067,Douglas,2022,455.1
+29,Missouri,29069,Dunklin,2022,18.5
+29,Missouri,29071,Franklin,2022,155.4
+29,Missouri,29073,Gasconade,2022,62.9
+29,Missouri,29075,Gentry,2022,55.5
+29,Missouri,29077,Greene,2022,144.29999999999998
+29,Missouri,29079,Grundy,2022,NA
+29,Missouri,29081,Harrison,2022,NA
+29,Missouri,29083,Henry,2022,166.5
+29,Missouri,29085,Hickory,2022,22.2
+29,Missouri,29087,Holt,2022,NA
+29,Missouri,29089,Howard,2022,111
+29,Missouri,29091,Howell,2022,133.20000000000002
+29,Missouri,29093,Iron,2022,111
+29,Missouri,29095,Jackson,2022,222
+29,Missouri,29097,Jasper,2022,188.7
+29,Missouri,29099,Jefferson,2022,262.7
+29,Missouri,29101,Johnson,2022,162.8
+29,Missouri,29103,Knox,2022,NA
+29,Missouri,29105,Laclede,2022,203.5
+29,Missouri,29107,Lafayette,2022,207.2
+29,Missouri,29109,Lawrence,2022,55.5
+29,Missouri,29111,Lewis,2022,44.4
+29,Missouri,29113,Lincoln,2022,270.09999999999997
+29,Missouri,29115,Linn,2022,99.9
+29,Missouri,29117,Livingston,2022,85.1
+29,Missouri,29121,Macon,2022,59.2
+29,Missouri,29123,Madison,2022,NA
+29,Missouri,29125,Maries,2022,118.4
+29,Missouri,29127,Marion,2022,366.3
+29,Missouri,29119,McDonald,2022,25.9
+29,Missouri,29129,Mercer,2022,NA
+29,Missouri,29131,Miller,2022,266.40000000000003
+29,Missouri,29133,Mississippi,2022,NA
+29,Missouri,29135,Moniteau,2022,188.7
+29,Missouri,29137,Monroe,2022,59.2
+29,Missouri,29139,Montgomery,2022,111
+29,Missouri,29141,Morgan,2022,122.1
+29,Missouri,29143,New Madrid,2022,NA
+29,Missouri,29145,Newton,2022,207.2
+29,Missouri,29147,Nodaway,2022,244.2
+29,Missouri,29149,Oregon,2022,370
+29,Missouri,29151,Osage,2022,44.4
+29,Missouri,29153,Ozark,2022,133.20000000000002
+29,Missouri,29155,Pemiscot,2022,NA
+29,Missouri,29157,Perry,2022,140.6
+29,Missouri,29159,Pettis,2022,255.3
+29,Missouri,29161,Phelps,2022,122.1
+29,Missouri,29163,Pike,2022,151.7
+29,Missouri,29165,Platte,2022,207.2
+29,Missouri,29167,Polk,2022,85.1
+29,Missouri,29169,Pulaski,2022,88.8
+29,Missouri,29171,Putnam,2022,344.1
+29,Missouri,29173,Ralls,2022,203.5
+29,Missouri,29175,Randolph,2022,44.4
+29,Missouri,29177,Ray,2022,210.9
+29,Missouri,29179,Reynolds,2022,77.7
+29,Missouri,29181,Ripley,2022,NA
+29,Missouri,29195,Saline,2022,284.90000000000003
+29,Missouri,29197,Schuyler,2022,NA
+29,Missouri,29199,Scotland,2022,NA
+29,Missouri,29201,Scott,2022,92.5
+29,Missouri,29203,Shannon,2022,81.4
+29,Missouri,29205,Shelby,2022,140.6
+29,Missouri,29183,St. Charles,2022,185
+29,Missouri,29185,St. Clair,2022,77.7
+29,Missouri,29187,St. Francois,2022,222
+29,Missouri,29189,St. Louis,2022,162.8
+29,Missouri,29510,St. Louis City,2022,99.9
+29,Missouri,29186,Ste. Genevieve,2022,103.6
+29,Missouri,29207,Stoddard,2022,NA
+29,Missouri,29209,Stone,2022,329.3
+29,Missouri,29211,Sullivan,2022,51.8
+29,Missouri,29213,Taney,2022,455.1
+29,Missouri,29215,Texas,2022,177.6
+29,Missouri,29217,Vernon,2022,111
+29,Missouri,29219,Warren,2022,177.6
+29,Missouri,29221,Washington,2022,NA
+29,Missouri,29223,Wayne,2022,173.9
+29,Missouri,29225,Webster,2022,203.5
+29,Missouri,29227,Worth,2022,NA
+29,Missouri,29229,Wright,2022,107.3
+31,Nebraska,31001,Adams,2022,155.4
+31,Nebraska,31003,Antelope,2022,222
+31,Nebraska,31005,Arthur,2022,NA
+31,Nebraska,31007,Banner,2022,NA
+31,Nebraska,31009,Blaine,2022,NA
+31,Nebraska,31011,Boone,2022,384.8
+31,Nebraska,31013,Box Butte,2022,125.8
+31,Nebraska,31015,Boyd,2022,325.6
+31,Nebraska,31017,Brown,2022,66.60000000000001
+31,Nebraska,31019,Buffalo,2022,140.6
+31,Nebraska,31021,Burt,2022,351.5
+31,Nebraska,31023,Butler,2022,266.40000000000003
+31,Nebraska,31025,Cass,2022,288.59999999999997
+31,Nebraska,31027,Cedar,2022,233.1
+31,Nebraska,31029,Chase,2022,62.9
+31,Nebraska,31031,Cherry,2022,118.4
+31,Nebraska,31033,Cheyenne,2022,114.7
+31,Nebraska,31035,Clay,2022,395.9
+31,Nebraska,31037,Colfax,2022,273.8
+31,Nebraska,31039,Cuming,2022,288.59999999999997
+31,Nebraska,31041,Custer,2022,181.3
+31,Nebraska,31043,Dakota,2022,181.3
+31,Nebraska,31045,Dawes,2022,181.3
+31,Nebraska,31047,Dawson,2022,62.9
+31,Nebraska,31049,Deuel,2022,236.8
+31,Nebraska,31051,Dixon,2022,281.2
+31,Nebraska,31053,Dodge,2022,173.9
+31,Nebraska,31055,Douglas,2022,122.1
+31,Nebraska,31057,Dundy,2022,37
+31,Nebraska,31059,Fillmore,2022,266.40000000000003
+31,Nebraska,31061,Franklin,2022,255.3
+31,Nebraska,31063,Frontier,2022,99.9
+31,Nebraska,31065,Furnas,2022,144.29999999999998
+31,Nebraska,31067,Gage,2022,318.2
+31,Nebraska,31069,Garden,2022,210.9
+31,Nebraska,31071,Garfield,2022,144.29999999999998
+31,Nebraska,31073,Gosper,2022,281.2
+31,Nebraska,31075,Grant,2022,NA
+31,Nebraska,31077,Greeley,2022,NA
+31,Nebraska,31079,Hall,2022,92.5
+31,Nebraska,31081,Hamilton,2022,199.8
+31,Nebraska,31083,Harlan,2022,177.6
+31,Nebraska,31085,Hayes,2022,177.6
+31,Nebraska,31087,Hitchcock,2022,173.9
+31,Nebraska,31089,Holt,2022,118.4
+31,Nebraska,31091,Hooker,2022,NA
+31,Nebraska,31093,Howard,2022,85.1
+31,Nebraska,31095,Jefferson,2022,159.1
+31,Nebraska,31097,Johnson,2022,362.6
+31,Nebraska,31099,Kearney,2022,166.5
+31,Nebraska,31101,Keith,2022,111
+31,Nebraska,31103,Keya Paha,2022,NA
+31,Nebraska,31105,Kimball,2022,247.9
+31,Nebraska,31107,Knox,2022,340.4
+31,Nebraska,31109,Lancaster,2022,129.5
+31,Nebraska,31111,Lincoln,2022,62.9
+31,Nebraska,31113,Logan,2022,NA
+31,Nebraska,31115,Loup,2022,114.7
+31,Nebraska,31119,Madison,2022,262.7
+31,Nebraska,31117,McPherson,2022,NA
+31,Nebraska,31121,Merrick,2022,44.4
+31,Nebraska,31123,Morrill,2022,92.5
+31,Nebraska,31125,Nance,2022,307.1
+31,Nebraska,31127,Nemaha,2022,281.2
+31,Nebraska,31129,Nuckolls,2022,229.4
+31,Nebraska,31131,Otoe,2022,303.4
+31,Nebraska,31133,Pawnee,2022,181.3
+31,Nebraska,31135,Perkins,2022,192.4
+31,Nebraska,31137,Phelps,2022,148
+31,Nebraska,31139,Pierce,2022,229.4
+31,Nebraska,31141,Platte,2022,181.3
+31,Nebraska,31143,Polk,2022,196.1
+31,Nebraska,31145,Red Willow,2022,166.5
+31,Nebraska,31147,Richardson,2022,203.5
+31,Nebraska,31149,Rock,2022,NA
+31,Nebraska,31151,Saline,2022,333
+31,Nebraska,31153,Sarpy,2022,185
+31,Nebraska,31155,Saunders,2022,173.9
+31,Nebraska,31157,Scotts Bluff,2022,159.1
+31,Nebraska,31159,Seward,2022,266.40000000000003
+31,Nebraska,31161,Sheridan,2022,29.6
+31,Nebraska,31163,Sherman,2022,259
+31,Nebraska,31165,Sioux,2022,99.9
+31,Nebraska,31167,Stanton,2022,225.7
+31,Nebraska,31169,Thayer,2022,181.3
+31,Nebraska,31171,Thomas,2022,114.7
+31,Nebraska,31173,Thurston,2022,207.2
+31,Nebraska,31175,Valley,2022,144.29999999999998
+31,Nebraska,31177,Washington,2022,244.2
+31,Nebraska,31179,Wayne,2022,270.09999999999997
+31,Nebraska,31181,Webster,2022,99.9
+31,Nebraska,31183,Wheeler,2022,NA
+31,Nebraska,31185,York,2022,262.7
+34,New Jersey,34001,Atlantic,2022,29.6
+34,New Jersey,34003,Bergen,2022,55.5
+34,New Jersey,34005,Burlington,2022,51.8
+34,New Jersey,34007,Camden,2022,55.5
+34,New Jersey,34009,Cape May,2022,14.8
+34,New Jersey,34011,Cumberland,2022,62.9
+34,New Jersey,34013,Essex,2022,44.4
+34,New Jersey,34015,Gloucester,2022,81.4
+34,New Jersey,34017,Hudson,2022,37
+34,New Jersey,34019,Hunterdon,2022,155.4
+34,New Jersey,34021,Mercer,2022,77.7
+34,New Jersey,34023,Middlesex,2022,55.5
+34,New Jersey,34025,Monmouth,2022,62.9
+34,New Jersey,34027,Morris,2022,88.8
+34,New Jersey,34029,Ocean,2022,29.6
+34,New Jersey,34031,Passaic,2022,55.5
+34,New Jersey,34033,Salem,2022,70.3
+34,New Jersey,34035,Somerset,2022,85.1
+34,New Jersey,34037,Sussex,2022,114.7
+34,New Jersey,34039,Union,2022,51.8
+34,New Jersey,34041,Warren,2022,136.9
+36,New York,36001,Albany,2022,74
+36,New York,36003,Allegany,2022,NA
+36,New York,36005,Bronx,2022,NA
+36,New York,36007,Broome,2022,96.2
+36,New York,36009,Cattaraugus,2022,NA
+36,New York,36011,Cayuga,2022,85.1
+36,New York,36013,Chautauqua,2022,NA
+36,New York,36015,Chemung,2022,25.9
+36,New York,36017,Chenango,2022,NA
+36,New York,36019,Clinton,2022,18.5
+36,New York,36021,Columbia,2022,199.8
+36,New York,36023,Cortland,2022,329.3
+36,New York,36025,Delaware,2022,3.7
+36,New York,36027,Dutchess,2022,62.9
+36,New York,36029,Erie,2022,66.60000000000001
+36,New York,36031,Essex,2022,3.7
+36,New York,36033,Franklin,2022,NA
+36,New York,36035,Fulton,2022,NA
+36,New York,36037,Genesee,2022,3.7
+36,New York,36039,Greene,2022,817.7
+36,New York,36041,Hamilton,2022,NA
+36,New York,36043,Herkimer,2022,NA
+36,New York,36045,Jefferson,2022,3.7
+36,New York,36047,Kings,2022,48.1
+36,New York,36049,Lewis,2022,37
+36,New York,36051,Livingston,2022,85.1
+36,New York,36053,Madison,2022,77.7
+36,New York,36055,Monroe,2022,125.8
+36,New York,36057,Montgomery,2022,214.6
+36,New York,36059,Nassau,2022,3.7
+36,New York,36061,New York,2022,NA
+36,New York,36063,Niagara,2022,55.5
+36,New York,36065,Oneida,2022,62.9
+36,New York,36067,Onondaga,2022,144.29999999999998
+36,New York,36069,Ontario,2022,NA
+36,New York,36071,Orange,2022,NA
+36,New York,36073,Orleans,2022,NA
+36,New York,36075,Oswego,2022,22.2
+36,New York,36077,Otsego,2022,196.1
+36,New York,36079,Putnam,2022,77.7
+36,New York,36081,Queens,2022,14.8
+36,New York,36083,Rensselaer,2022,111
+36,New York,36085,Richmond,2022,NA
+36,New York,36087,Rockland,2022,33.300000000000004
+36,New York,36091,Saratoga,2022,81.4
+36,New York,36093,Schenectady,2022,11.1
+36,New York,36095,Schoharie,2022,3.7
+36,New York,36097,Schuyler,2022,125.8
+36,New York,36099,Seneca,2022,NA
+36,New York,36089,St. Lawrence,2022,NA
+36,New York,36101,Steuben,2022,118.4
+36,New York,36103,Suffolk,2022,25.9
+36,New York,36105,Sullivan,2022,NA
+36,New York,36107,Tioga,2022,462.5
+36,New York,36109,Tompkins,2022,558.6999999999999
+36,New York,36111,Ulster,2022,85.1
+36,New York,36113,Warren,2022,NA
+36,New York,36115,Washington,2022,188.7
+36,New York,36117,Wayne,2022,NA
+36,New York,36119,Westchester,2022,51.8
+36,New York,36121,Wyoming,2022,NA
+36,New York,36123,Yates,2022,40.7
+37,North Carolina,37001,Alamance,2022,11.1
+37,North Carolina,37003,Alexander,2022,3.7
+37,North Carolina,37005,Alleghany,2022,136.9
+37,North Carolina,37007,Anson,2022,NA
+37,North Carolina,37009,Ashe,2022,185
+37,North Carolina,37011,Avery,2022,NA
+37,North Carolina,37013,Beaufort,2022,NA
+37,North Carolina,37015,Bertie,2022,NA
+37,North Carolina,37017,Bladen,2022,NA
+37,North Carolina,37019,Brunswick,2022,NA
+37,North Carolina,37021,Buncombe,2022,181.3
+37,North Carolina,37023,Burke,2022,62.9
+37,North Carolina,37025,Cabarrus,2022,33.300000000000004
+37,North Carolina,37027,Caldwell,2022,185
+37,North Carolina,37029,Camden,2022,NA
+37,North Carolina,37031,Carteret,2022,NA
+37,North Carolina,37033,Caswell,2022,NA
+37,North Carolina,37035,Catawba,2022,29.6
+37,North Carolina,37037,Chatham,2022,111
+37,North Carolina,37039,Cherokee,2022,133.20000000000002
+37,North Carolina,37041,Chowan,2022,NA
+37,North Carolina,37043,Clay,2022,NA
+37,North Carolina,37045,Cleveland,2022,37
+37,North Carolina,37047,Columbus,2022,NA
+37,North Carolina,37049,Craven,2022,3.7
+37,North Carolina,37051,Cumberland,2022,14.8
+37,North Carolina,37053,Currituck,2022,NA
+37,North Carolina,37055,Dare,2022,NA
+37,North Carolina,37057,Davidson,2022,37
+37,North Carolina,37059,Davie,2022,59.2
+37,North Carolina,37061,Duplin,2022,NA
+37,North Carolina,37063,Durham,2022,22.2
+37,North Carolina,37065,Edgecombe,2022,NA
+37,North Carolina,37067,Forsyth,2022,88.8
+37,North Carolina,37069,Franklin,2022,NA
+37,North Carolina,37071,Gaston,2022,33.300000000000004
+37,North Carolina,37073,Gates,2022,NA
+37,North Carolina,37075,Graham,2022,NA
+37,North Carolina,37077,Granville,2022,37
+37,North Carolina,37079,Greene,2022,NA
+37,North Carolina,37081,Guilford,2022,62.9
+37,North Carolina,37083,Halifax,2022,NA
+37,North Carolina,37085,Harnett,2022,37
+37,North Carolina,37087,Haywood,2022,51.8
+37,North Carolina,37089,Henderson,2022,114.7
+37,North Carolina,37091,Hertford,2022,NA
+37,North Carolina,37093,Hoke,2022,NA
+37,North Carolina,37095,Hyde,2022,NA
+37,North Carolina,37097,Iredell,2022,122.1
+37,North Carolina,37099,Jackson,2022,136.9
+37,North Carolina,37101,Johnston,2022,14.8
+37,North Carolina,37103,Jones,2022,NA
+37,North Carolina,37105,Lee,2022,11.1
+37,North Carolina,37107,Lenoir,2022,NA
+37,North Carolina,37109,Lincoln,2022,629
+37,North Carolina,37113,Macon,2022,85.1
+37,North Carolina,37115,Madison,2022,18.5
+37,North Carolina,37117,Martin,2022,NA
+37,North Carolina,37111,McDowell,2022,NA
+37,North Carolina,37119,Mecklenburg,2022,18.5
+37,North Carolina,37121,Mitchell,2022,74
+37,North Carolina,37123,Montgomery,2022,3.7
+37,North Carolina,37125,Moore,2022,37
+37,North Carolina,37127,Nash,2022,3.7
+37,North Carolina,37129,New Hanover,2022,3.7
+37,North Carolina,37131,Northampton,2022,222
+37,North Carolina,37133,Onslow,2022,NA
+37,North Carolina,37135,Orange,2022,18.5
+37,North Carolina,37137,Pamlico,2022,NA
+37,North Carolina,37139,Pasquotank,2022,NA
+37,North Carolina,37141,Pender,2022,NA
+37,North Carolina,37143,Perquimans,2022,NA
+37,North Carolina,37145,Person,2022,NA
+37,North Carolina,37147,Pitt,2022,37
+37,North Carolina,37149,Polk,2022,111
+37,North Carolina,37151,Randolph,2022,25.9
+37,North Carolina,37153,Richmond,2022,NA
+37,North Carolina,37155,Robeson,2022,3.7
+37,North Carolina,37157,Rockingham,2022,62.9
+37,North Carolina,37159,Rowan,2022,240.5
+37,North Carolina,37161,Rutherford,2022,37
+37,North Carolina,37163,Sampson,2022,NA
+37,North Carolina,37165,Scotland,2022,NA
+37,North Carolina,37167,Stanly,2022,14.8
+37,North Carolina,37169,Stokes,2022,55.5
+37,North Carolina,37171,Surry,2022,103.6
+37,North Carolina,37173,Swain,2022,22.2
+37,North Carolina,37175,Transylvania,2022,59.2
+37,North Carolina,37177,Tyrrell,2022,NA
+37,North Carolina,37179,Union,2022,14.8
+37,North Carolina,37181,Vance,2022,NA
+37,North Carolina,37183,Wake,2022,22.2
+37,North Carolina,37185,Warren,2022,NA
+37,North Carolina,37187,Washington,2022,NA
+37,North Carolina,37189,Watauga,2022,148
+37,North Carolina,37191,Wayne,2022,33.300000000000004
+37,North Carolina,37193,Wilkes,2022,111
+37,North Carolina,37195,Wilson,2022,NA
+37,North Carolina,37197,Yadkin,2022,37
+37,North Carolina,37199,Yancey,2022,NA
+41,Oregon,41001,Baker,2022,122.1
+41,Oregon,41003,Benton,2022,62.9
+41,Oregon,41005,Clackamas,2022,103.6
+41,Oregon,41007,Clatsop,2022,159.1
+41,Oregon,41009,Columbia,2022,70.3
+41,Oregon,41011,Coos,2022,381.1
+41,Oregon,41013,Crook,2022,33.300000000000004
+41,Oregon,41015,Curry,2022,185
+41,Oregon,41017,Deschutes,2022,48.1
+41,Oregon,41019,Douglas,2022,29.6
+41,Oregon,41021,Gilliam,2022,37
+41,Oregon,41023,Grant,2022,NA
+41,Oregon,41025,Harney,2022,103.6
+41,Oregon,41027,Hood River,2022,96.2
+41,Oregon,41029,Jackson,2022,133.20000000000002
+41,Oregon,41031,Jefferson,2022,55.5
+41,Oregon,41033,Josephine,2022,118.4
+41,Oregon,41035,Klamath,2022,11.1
+41,Oregon,41037,Lake,2022,11.1
+41,Oregon,41039,Lane,2022,77.7
+41,Oregon,41041,Lincoln,2022,37
+41,Oregon,41043,Linn,2022,40.7
+41,Oregon,41045,Malheur,2022,173.9
+41,Oregon,41047,Marion,2022,155.4
+41,Oregon,41049,Morrow,2022,3.7
+41,Oregon,41051,Multnomah,2022,118.4
+41,Oregon,41053,Polk,2022,70.3
+41,Oregon,41055,Sherman,2022,NA
+41,Oregon,41057,Tillamook,2022,159.1
+41,Oregon,41059,Umatilla,2022,29.6
+41,Oregon,41061,Union,2022,125.8
+41,Oregon,41063,Wallowa,2022,162.8
+41,Oregon,41065,Wasco,2022,62.9
+41,Oregon,41067,Washington,2022,99.9
+41,Oregon,41069,Wheeler,2022,NA
+41,Oregon,41071,Yamhill,2022,136.9
+47,Tennessee,47001,Anderson,2022,114.7
+47,Tennessee,47003,Bedford,2022,48.1
+47,Tennessee,47005,Benton,2022,140.6
+47,Tennessee,47007,Bledsoe,2022,155.4
+47,Tennessee,47009,Blount,2022,118.4
+47,Tennessee,47011,Bradley,2022,166.5
+47,Tennessee,47013,Campbell,2022,136.9
+47,Tennessee,47015,Cannon,2022,33.300000000000004
+47,Tennessee,47017,Carroll,2022,48.1
+47,Tennessee,47019,Carter,2022,347.8
+47,Tennessee,47021,Cheatham,2022,81.4
+47,Tennessee,47023,Chester,2022,37
+47,Tennessee,47025,Claiborne,2022,55.5
+47,Tennessee,47027,Clay,2022,51.8
+47,Tennessee,47029,Cocke,2022,159.1
+47,Tennessee,47031,Coffee,2022,48.1
+47,Tennessee,47033,Crockett,2022,33.300000000000004
+47,Tennessee,47035,Cumberland,2022,85.1
+47,Tennessee,47037,Davidson,2022,103.6
+47,Tennessee,47039,Decatur,2022,NA
+47,Tennessee,47041,DeKalb,2022,2208.9
+47,Tennessee,47043,Dickson,2022,81.4
+47,Tennessee,47045,Dyer,2022,NA
+47,Tennessee,47047,Fayette,2022,125.8
+47,Tennessee,47049,Fentress,2022,62.9
+47,Tennessee,47051,Franklin,2022,259
+47,Tennessee,47053,Gibson,2022,33.300000000000004
+47,Tennessee,47055,Giles,2022,159.1
+47,Tennessee,47057,Grainger,2022,99.9
+47,Tennessee,47059,Greene,2022,111
+47,Tennessee,47061,Grundy,2022,18.5
+47,Tennessee,47063,Hamblen,2022,155.4
+47,Tennessee,47065,Hamilton,2022,77.7
+47,Tennessee,47067,Hancock,2022,NA
+47,Tennessee,47069,Hardeman,2022,NA
+47,Tennessee,47071,Hardin,2022,66.60000000000001
+47,Tennessee,47073,Hawkins,2022,114.7
+47,Tennessee,47075,Haywood,2022,40.7
+47,Tennessee,47077,Henderson,2022,NA
+47,Tennessee,47079,Henry,2022,NA
+47,Tennessee,47081,Hickman,2022,81.4
+47,Tennessee,47083,Houston,2022,NA
+47,Tennessee,47085,Humphreys,2022,37
+47,Tennessee,47087,Jackson,2022,85.1
+47,Tennessee,47089,Jefferson,2022,148
+47,Tennessee,47091,Johnson,2022,140.6
+47,Tennessee,47093,Knox,2022,81.4
+47,Tennessee,47095,Lake,2022,NA
+47,Tennessee,47097,Lauderdale,2022,NA
+47,Tennessee,47099,Lawrence,2022,155.4
+47,Tennessee,47101,Lewis,2022,NA
+47,Tennessee,47103,Lincoln,2022,74
+47,Tennessee,47105,Loudon,2022,122.1
+47,Tennessee,47111,Macon,2022,18.5
+47,Tennessee,47113,Madison,2022,59.2
+47,Tennessee,47115,Marion,2022,299.7
+47,Tennessee,47117,Marshall,2022,33.300000000000004
+47,Tennessee,47119,Maury,2022,140.6
+47,Tennessee,47107,McMinn,2022,55.5
+47,Tennessee,47109,McNairy,2022,NA
+47,Tennessee,47121,Meigs,2022,99.9
+47,Tennessee,47123,Monroe,2022,74
+47,Tennessee,47125,Montgomery,2022,96.2
+47,Tennessee,47127,Moore,2022,NA
+47,Tennessee,47129,Morgan,2022,44.4
+47,Tennessee,47131,Obion,2022,59.2
+47,Tennessee,47133,Overton,2022,273.8
+47,Tennessee,47135,Perry,2022,NA
+47,Tennessee,47137,Pickett,2022,NA
+47,Tennessee,47139,Polk,2022,333
+47,Tennessee,47141,Putnam,2022,233.1
+47,Tennessee,47143,Rhea,2022,44.4
+47,Tennessee,47145,Roane,2022,85.1
+47,Tennessee,47147,Robertson,2022,103.6
+47,Tennessee,47149,Rutherford,2022,51.8
+47,Tennessee,47151,Scott,2022,11.1
+47,Tennessee,47153,Sequatchie,2022,44.4
+47,Tennessee,47155,Sevier,2022,118.4
+47,Tennessee,47157,Shelby,2022,40.7
+47,Tennessee,47159,Smith,2022,74
+47,Tennessee,47161,Stewart,2022,NA
+47,Tennessee,47163,Sullivan,2022,129.5
+47,Tennessee,47165,Sumner,2022,96.2
+47,Tennessee,47167,Tipton,2022,111
+47,Tennessee,47169,Trousdale,2022,NA
+47,Tennessee,47171,Unicoi,2022,229.4
+47,Tennessee,47173,Union,2022,55.5
+47,Tennessee,47175,Van Buren,2022,74
+47,Tennessee,47177,Warren,2022,336.7
+47,Tennessee,47179,Washington,2022,177.6
+47,Tennessee,47181,Wayne,2022,358.9
+47,Tennessee,47183,Weakley,2022,NA
+47,Tennessee,47185,White,2022,240.5
+47,Tennessee,47187,Williamson,2022,125.8
+47,Tennessee,47189,Wilson,2022,92.5
+49,Utah,49001,Beaver,2022,1646.5
+49,Utah,49003,Box Elder,2022,344.1
+49,Utah,49005,Cache,2022,251.6
+49,Utah,49007,Carbon,2022,144.29999999999998
+49,Utah,49009,Daggett,2022,NA
+49,Utah,49011,Davis,2022,181.3
+49,Utah,49013,Duchesne,2022,251.6
+49,Utah,49015,Emery,2022,214.6
+49,Utah,49017,Garfield,2022,111
+49,Utah,49019,Grand,2022,77.7
+49,Utah,49021,Iron,2022,88.8
+49,Utah,49023,Juab,2022,173.9
+49,Utah,49025,Kane,2022,77.7
+49,Utah,49027,Millard,2022,270.09999999999997
+49,Utah,49029,Morgan,2022,192.4
+49,Utah,49031,Piute,2022,25.9
+49,Utah,49033,Rich,2022,88.8
+49,Utah,49035,Salt Lake,2022,148
+49,Utah,49037,San Juan,2022,148
+49,Utah,49039,Sanpete,2022,310.8
+49,Utah,49041,Sevier,2022,958.3
+49,Utah,49043,Summit,2022,170.2
+49,Utah,49045,Tooele,2022,229.4
+49,Utah,49047,Uintah,2022,173.9
+49,Utah,49049,Utah,2022,196.1
+49,Utah,49051,Wasatch,2022,355.2
+49,Utah,49053,Washington,2022,62.9
+49,Utah,49055,Wayne,2022,251.6
+49,Utah,49057,Weber,2022,155.4
+50,Vermont,50001,Addison,2022,103.6
+50,Vermont,50003,Bennington,2022,99.9
+50,Vermont,50005,Caledonia,2022,159.1
+50,Vermont,50007,Chittenden,2022,88.8
+50,Vermont,50009,Essex,2022,48.1
+50,Vermont,50011,Franklin,2022,77.7
+50,Vermont,50013,Grand Isle,2022,81.4
+50,Vermont,50015,Lamoille,2022,107.3
+50,Vermont,50017,Orange,2022,185
+50,Vermont,50019,Orleans,2022,107.3
+50,Vermont,50021,Rutland,2022,122.1
+50,Vermont,50023,Washington,2022,125.8
+50,Vermont,50025,Windham,2022,125.8
+50,Vermont,50027,Windsor,2022,118.4
+55,Wisconsin,55001,Adams,2022,37
+55,Wisconsin,55003,Ashland,2022,173.9
+55,Wisconsin,55005,Barron,2022,162.8
+55,Wisconsin,55007,Bayfield,2022,111
+55,Wisconsin,55009,Brown,2022,177.6
+55,Wisconsin,55011,Buffalo,2022,247.9
+55,Wisconsin,55013,Burnett,2022,129.5
+55,Wisconsin,55015,Calumet,2022,196.1
+55,Wisconsin,55017,Chippewa,2022,284.90000000000003
+55,Wisconsin,55019,Clark,2022,151.7
+55,Wisconsin,55021,Columbia,2022,181.3
+55,Wisconsin,55023,Crawford,2022,284.90000000000003
+55,Wisconsin,55025,Dane,2022,166.5
+55,Wisconsin,55027,Dodge,2022,284.90000000000003
+55,Wisconsin,55029,Door,2022,233.1
+55,Wisconsin,55031,Douglas,2022,214.6
+55,Wisconsin,55033,Dunn,2022,214.6
+55,Wisconsin,55035,Eau Claire,2022,166.5
+55,Wisconsin,55037,Florence,2022,222
+55,Wisconsin,55039,Fond du Lac,2022,225.7
+55,Wisconsin,55041,Forest,2022,277.5
+55,Wisconsin,55043,Grant,2022,310.8
+55,Wisconsin,55045,Green,2022,340.4
+55,Wisconsin,55047,Green Lake,2022,155.4
+55,Wisconsin,55049,Iowa,2022,333
+55,Wisconsin,55051,Iron,2022,96.2
+55,Wisconsin,55053,Jackson,2022,166.5
+55,Wisconsin,55055,Jefferson,2022,218.3
+55,Wisconsin,55057,Juneau,2022,144.29999999999998
+55,Wisconsin,55059,Kenosha,2022,129.5
+55,Wisconsin,55061,Kewaunee,2022,266.40000000000003
+55,Wisconsin,55063,La Crosse,2022,155.4
+55,Wisconsin,55065,Lafayette,2022,499.5
+55,Wisconsin,55067,Langlade,2022,403.3
+55,Wisconsin,55069,Lincoln,2022,203.5
+55,Wisconsin,55071,Manitowoc,2022,155.4
+55,Wisconsin,55073,Marathon,2022,444
+55,Wisconsin,55075,Marinette,2022,162.8
+55,Wisconsin,55077,Marquette,2022,162.8
+55,Wisconsin,55078,Menominee,2022,284.90000000000003
+55,Wisconsin,55079,Milwaukee,2022,155.4
+55,Wisconsin,55081,Monroe,2022,118.4
+55,Wisconsin,55083,Oconto,2022,173.9
+55,Wisconsin,55085,Oneida,2022,136.9
+55,Wisconsin,55087,Outagamie,2022,199.8
+55,Wisconsin,55089,Ozaukee,2022,188.7
+55,Wisconsin,55091,Pepin,2022,185
+55,Wisconsin,55093,Pierce,2022,233.1
+55,Wisconsin,55095,Polk,2022,192.4
+55,Wisconsin,55097,Portage,2022,199.8
+55,Wisconsin,55099,Price,2022,366.3
+55,Wisconsin,55101,Racine,2022,177.6
+55,Wisconsin,55103,Richland,2022,284.90000000000003
+55,Wisconsin,55105,Rock,2022,233.1
+55,Wisconsin,55107,Rusk,2022,210.9
+55,Wisconsin,55111,Sauk,2022,196.1
+55,Wisconsin,55113,Sawyer,2022,144.29999999999998
+55,Wisconsin,55115,Shawano,2022,340.4
+55,Wisconsin,55117,Sheboygan,2022,159.1
+55,Wisconsin,55109,St. Croix,2022,218.3
+55,Wisconsin,55119,Taylor,2022,136.9
+55,Wisconsin,55121,Trempealeau,2022,262.7
+55,Wisconsin,55123,Vernon,2022,118.4
+55,Wisconsin,55125,Vilas,2022,111
+55,Wisconsin,55127,Walworth,2022,188.7
+55,Wisconsin,55129,Washburn,2022,151.7
+55,Wisconsin,55131,Washington,2022,218.3
+55,Wisconsin,55133,Waukesha,2022,233.1
+55,Wisconsin,55135,Waupaca,2022,418.1
+55,Wisconsin,55137,Waushara,2022,144.29999999999998
+55,Wisconsin,55139,Winnebago,2022,222
+55,Wisconsin,55141,Wood,2022,140.6
